@@ -12,5 +12,3 @@ spec:
    selector: 
       name: redis-pod
       app: demo-voting-app
-	 
-	 
